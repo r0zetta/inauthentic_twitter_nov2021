@@ -37,7 +37,9 @@ XXX Statistics gathered XXX
 - number of tweets matching criteria
 - number of unique accounts mentioned on user account lists in those tweets
 
-The accounts involved in this network were observed to share COVID-related disinformation, anti-vax conspiracy theories, racist content, QAnon-related content, and extremist material. Some of these users have been actively participating in this behaviour for several years. For instance, the script discovered the PaulMer53 account, almost identical to a PaulMer52 account observed participating in pro-Brexit content amplification during the 2019 UK General election.
+The accounts involved in this network were observed to share COVID-related disinformation, anti-vax conspiracy theories, racist content, QAnon-related content, and extremist material. By-and-large the accounts are high-volume (publish hundreds of tweets per day) and have follower/following counts in the tens of thousands. Creation dates vary.
+
+Some of the identified accounts have been actively participating in this behaviour for several years. For instance, the script discovered the PaulMer53 account, almost identical to a PaulMer52 account observed participating in pro-Brexit content amplification during the 2019 UK General election.
 
 ![](images/PaulMer53.png)
 ![](images/PaulMer52.png)
