@@ -7,7 +7,7 @@ Follow-back behaviour on Twitter is not a new phenomenon, nor is it always used 
 # Motivation
 This particular attempt at defining the scope of an inauthentic follow-back group was prompted by an account I discovered while looking into COVID-related disinformation. The account, duncanclements6, is pictured below.
 
-![](images/gooner2.png)
+![](images/gooner2.jpeg)
 
 An analysis of this account was conducted by botvolution and can be found here: https://twitter.com/botvolution/status/1463108224920571908
 
