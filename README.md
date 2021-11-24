@@ -48,7 +48,7 @@ Some of the identified accounts have been actively participating in this behavio
 ![](images/PaulMer53.png)
 ![](images/PaulMer52.png)
 
-The fact that this same account participated in aggressive pro-Brexit, pro-Tory activity during the 2019 UK election and is now embedded with, and pushing a pro-Trump, anti-Biden narrative is somewhat suspicious, but also speaks to the global reach of these amplification networks. 
+The fact that this same account participated in aggressive pro-Brexit, pro-Tory activity during the 2019 UK election and is now embedded with, and pushing a pro-Trump, anti-Biden narrative is somewhat suspicious, but also speaks to the global reach of these amplification networks. Prior to being PaulMer52 and PaulMer53, this account manifested as both paulmer51 and paulmer70053201.
 
 Also observed were accounts that auto-delete tweets at a rapid rate. For instance, according to Twitter's UI, this account has published 46.7k tweets. The script was ony able to obtain 175 tweets from the account, meaning that the rest were deleted, likely by automation.
 
