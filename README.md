@@ -24,9 +24,8 @@ A rudimentary script was created to search for additional accounts participating
 - obtain a Twitter screen_name from a list of unqueried accounts
 - using the Twitter API, obtain that account's most recent tweets
 - iterate through captured tweets in order to identify tweets containing 7 or more account mentions
-- if the criterion was met, check whether the tweet was original content or a retweet
-- record the url of the follow-back-style tweet, the screen_name of the account that published the original tweet, and a list of accounts mentioned in the tweet
-- if the screen_name of the account that published the tweet wasn't on the list of unqueried accounts, append it
+- record the url of the follow-back-style original tweet, the screen_name of the account that published or retweeted the original tweet, and a list of accounts mentioned in the tweet
+- if the screen_name of the account that published or retweeted the tweet wasn't on the list of unqueried accounts, append it
 - repeat
 
 Here is an example of a tweet matching the criterion:
