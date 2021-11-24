@@ -2,12 +2,12 @@
 A scrape of high-volume inauthentic Twitter accounts from Nov. 2021
 
 # Introduction
-Follow-back behaviour on Twitter is not a new phenomenon, nor is it always used for malicious purposes. The follow-back Friday tradition has been running for over a decade, and has provided a mechanism for Twitter users to connect with other users sharing similar interests. However, follow-back mechanisms, when applied en-masse, via thousands of high-volume accounts is an indicator of inauthentic behaviour, and potentially automation. Although the existance of such high-volume follow-back mechanisms is well-known on Twitter, it is rarely the subject of investigation. The is because (i) Twitter's free API rate limits prohibit the sort of scraping required to properly capture all accounts involved in this activity, and (ii) the sheer size of these networks mean that crawling this space would take too long.
+Follow-back behaviour on Twitter is not a new phenomenon, nor is it always used for malicious purposes. The follow-back Friday tradition has been running for over a decade, and has provided a mechanism for Twitter users to connect with other users sharing similar interests. However, follow-back mechanisms, when applied en-masse, via thousands of high-volume accounts is an indicator of inauthentic behaviour, and potentially automation. Although the existance of such high-volume follow-back mechanisms is well-known on Twitter, it is rarely the subject of investigation. The is because (i) Twitter's free API rate limits prohibit the sort of scraping required to properly capture all accounts involved in this activity, and (ii) the sheer size of these networks mean that crawling this space can take a very long time.
 
 # Motivation
 This particular attempt at defining the scope of an inauthentic follow-back group was prompted by an account I discovered while looking into COVID-related disinformation. The account, duncanclements6, is pictured below.
 
-XXX gooner2.png XXX
+![](images/gooner2.png)
 
 An analysis of this account was conducted by botvolution and can be found here: https://twitter.com/botvolution/status/1463108224920571908
 
