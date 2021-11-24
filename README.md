@@ -48,7 +48,7 @@ Some of the identified accounts have been actively participating in this behavio
 ![](images/PaulMer53.png)
 ![](images/PaulMer52.png)
 
-Also observed were accounts that auto-delete tweets at a rapid rate. For instance, according to Twitter's UI, this account has published 47.6k tweets. The script was ony able to obtain 175 tweets from the account, meaning that the rest were deleted, likely by automation.
+Also observed were accounts that auto-delete tweets at a rapid rate. For instance, according to Twitter's UI, this account has published 46.7k tweets. The script was ony able to obtain 175 tweets from the account, meaning that the rest were deleted, likely by automation.
 
 ![](images/LindaNTx.png)
 
