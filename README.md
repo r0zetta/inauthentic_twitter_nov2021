@@ -27,7 +27,19 @@ Here is an example of a tweet matching the criterion:
 
 XXX example_followback_tweet XXX
 
-The script was allowed to run for XXX hours.
+The script was allowed to run for XXX hours between 11:00 November 24th 2021 and .
 
 # Results
+XXX Statistics gathered XXX
+- number of accounts engaged in high-volume follow-back tweet behaviour
+- number of tweets matching criteria
+- number of unique accounts mentioned on user account lists in those tweets
 
+The accounts involved in this network were observed to share COVID-related disinformation, anti-vax conspiracy theories, racist content, QAnon-related content, and extremist material. Some of these users have been actively participating in this behaviour for several years. For instance, the script discovered the PaulMer53 account, almost identical to a PaulMer52 account observed participating in pro-Brexit content amplification during the 2019 UK General election.
+
+XXX PaulMer53 XXX
+XXX PaulMer52 XXX
+
+Also observed were accounts that auto-delete tweets at a rapid rate. For instance, according to Twitter's UI, this account has published 47.6k tweets. The script was ony able to obtain 175 tweets from the account, meaning that the rest were deleted, likely by automation.
+
+XXX LindaNTx XXX
