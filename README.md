@@ -27,7 +27,7 @@ A rudimentary script was created to search for additional accounts participating
 
 Here is an example of a tweet matching the criterion:
 
-![](images/example_followback_tweet)
+![](images/example_followback_tweet.png)
 
 The script was allowed to run for XXX hours between 11:00 November 24th 2021 and .
 
@@ -39,9 +39,9 @@ XXX Statistics gathered XXX
 
 The accounts involved in this network were observed to share COVID-related disinformation, anti-vax conspiracy theories, racist content, QAnon-related content, and extremist material. Some of these users have been actively participating in this behaviour for several years. For instance, the script discovered the PaulMer53 account, almost identical to a PaulMer52 account observed participating in pro-Brexit content amplification during the 2019 UK General election.
 
-![](images/PaulMer53)
-![](images/PaulMer52)
+![](images/PaulMer53.png)
+![](images/PaulMer52.png)
 
 Also observed were accounts that auto-delete tweets at a rapid rate. For instance, according to Twitter's UI, this account has published 47.6k tweets. The script was ony able to obtain 175 tweets from the account, meaning that the rest were deleted, likely by automation.
 
-![](images/LindaNTx)
+![](images/LindaNTx.png)
