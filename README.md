@@ -1,5 +1,5 @@
 # inauthentic_twitter_nov2021
-A scrape of inauthentic Twitter accounts from Nov. 2021
+A scrape of high-volume inauthentic Twitter accounts from Nov. 2021
 
 # Introduction
 Follow-back behaviour on Twitter is not a new phenomenon, nor is it always used for malicious purposes. The follow-back Friday tradition has been running for over a decade, and has provided a mechanism for Twitter users to connect with other users sharing similar interests. However, follow-back mechanisms, when applied en-masse, via thousands of high-volume accounts is an indicator of inauthentic behaviour, and potentially automation. Although the existance of such high-volume follow-back mechanisms is well-known on Twitter, it is rarely the subject of investigation. The is because (i) Twitter's free API rate limits prohibit the sort of scraping required to properly capture all accounts involved in this activity, and (ii) the sheer size of these networks mean that crawling this space would take too long.
