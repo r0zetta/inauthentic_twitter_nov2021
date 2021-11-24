@@ -48,6 +48,8 @@ Some of the identified accounts have been actively participating in this behavio
 ![](images/PaulMer53.png)
 ![](images/PaulMer52.png)
 
+Note how PaulMer's music taste and favourite football club changed between accounts. The fact that this same account participated in aggressive pro-Brexit, pro-Tory activity during the 2019 UK election and is now pushing a pro-Trump, anti-Biden narrative is also somewhat suspicious. Such behaviour could be considered similar to activities performed by nation-state operations, such as those performed by the Internet Research Agency.
+
 Also observed were accounts that auto-delete tweets at a rapid rate. For instance, according to Twitter's UI, this account has published 46.7k tweets. The script was ony able to obtain 175 tweets from the account, meaning that the rest were deleted, likely by automation.
 
 ![](images/LindaNTx.png)
