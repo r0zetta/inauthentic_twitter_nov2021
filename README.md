@@ -2,7 +2,7 @@
 A scrape of high-volume inauthentic Twitter accounts from Nov. 2021
 
 # Introduction
-Follow-back behaviour on Twitter is not a new phenomenon, nor is it always used for malicious purposes. However, follow-back mechanisms, when applied en-masse, via thousands of high-volume accounts can be an indicator of inauthentic behaviour and potentially automation. Although the existance of such high-volume follow-back mechanisms is well-known on Twitter, it is rarely the subject of investigation. The is because (i) Twitter's free API rate limits prohibit the sort of scraping required to properly capture all accounts involved in this activity, and (ii) the sheer size of these networks mean that crawling this space can take a very long time.
+Follow-back behaviour on Twitter is not a new phenomenon, nor is it always used for malicious purposes. However, follow-back mechanisms, when applied en-masse, via thousands of high-volume accounts can be an indicator of inauthentic behaviour and potentially automation. Such mechanisms are also used to bulk-cultivate accounts that are used for disinformation-as-a-service operations. Although the existance of such high-volume follow-back mechanisms is well-known on Twitter, it is rarely the subject of investigation. The is because (i) Twitter's free API rate limits prohibit the sort of scraping required to properly capture all accounts involved in this activity, and (ii) the sheer size of these networks mean that crawling this space can take a very long time.
 
 This short report details the methodology used to capture members of a high-volume follow-back group, and includes data as a starting point that we hope Twitter's Safety team will act upon.
 
