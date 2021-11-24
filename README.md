@@ -11,7 +11,9 @@ This particular attempt at defining the scope of an inauthentic follow-back grou
 
 An analysis of this account was conducted by botvolution and can be found here: https://twitter.com/botvolution/status/1463108224920571908
 
-This fake account, disguised as a football fan from London, was heavily participating in the promotion of follow-back spam at the time of initial inspection. The account posted many tweets containing long lists of usernames, followed by a meme image, or short piece of text. This mechanism, in addition to being used to propagate large follow-back networks, was designed to fish for likes, retweets, and replies. And it worked all too well. In addition to posting its own follow-back-style tweets, it retweeted similar content, and often replied to follow-back-styled tweets, in order to promote them, or ask for follows. Scrolling through the account's timeline, it was observed that the duncanclements6 account repeatedly retweeted the same accounts that were also participating in similar username spam activities. A few of these were noted: Star7lt, USARGB, jAlmz5, duckusa, 8_27J, KeysLiisa, VuDeja4, emma6USA. At this juncture, it was hypothesised that there must be other accounts participating in this high-volume follow-back behaviour, and that manual analysis would be too cumbersome to identify them all.
+This fake account, disguised as a football fan from London, was heavily participating in the promotion of follow-back spam at the time of initial inspection. The account posted many tweets containing long lists of usernames, followed by a meme image, or short piece of text. This mechanism, in addition to being used to propagate large follow-back networks, was designed to fish for likes, retweets, and replies. And it worked all too well. In addition to posting its own follow-back-style tweets, it retweeted similar content, and often replied to follow-back-styled tweets, in order to promote them, or ask for follows. Scrolling through the account's timeline, it was observed that the duncanclements6 account repeatedly retweeted the same accounts that were also participating in similar username spam activities. A few of these were noted: Star7lt, USARGB, jAlmz5, duckusa, 8_27J, KeysLiisa, VuDeja4, emma6USA. The account had just been suspended at the time of writing, but it is unknown whether it was a temporary or permanent suspension.
+
+At this juncture, it was hypothesised that there must be other accounts participating in this high-volume follow-back behaviour, and that manual analysis would be too cumbersome to identify them all. As such, some automation was created to explore this phenomenon, which is detailed in the next section.
 
 # Methodology
 A rudimentary script was created to search for additional accounts participating in this inauthentic activity. The script was designed to perform the following actions:
@@ -25,7 +27,7 @@ A rudimentary script was created to search for additional accounts participating
 
 Here is an example of a tweet matching the criterion:
 
-XXX example_followback_tweet XXX
+![](images/example_followback_tweet)
 
 The script was allowed to run for XXX hours between 11:00 November 24th 2021 and .
 
@@ -37,9 +39,9 @@ XXX Statistics gathered XXX
 
 The accounts involved in this network were observed to share COVID-related disinformation, anti-vax conspiracy theories, racist content, QAnon-related content, and extremist material. Some of these users have been actively participating in this behaviour for several years. For instance, the script discovered the PaulMer53 account, almost identical to a PaulMer52 account observed participating in pro-Brexit content amplification during the 2019 UK General election.
 
-XXX PaulMer53 XXX
-XXX PaulMer52 XXX
+![](images/PaulMer53)
+![](images/PaulMer52)
 
 Also observed were accounts that auto-delete tweets at a rapid rate. For instance, according to Twitter's UI, this account has published 47.6k tweets. The script was ony able to obtain 175 tweets from the account, meaning that the rest were deleted, likely by automation.
 
-XXX LindaNTx XXX
+![](images/LindaNTx)
