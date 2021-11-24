@@ -22,7 +22,7 @@ At this juncture, it was hypothesised that there must be other accounts particip
 # Methodology
 A rudimentary script was created to search for additional accounts participating in this inauthentic activity. The script was designed to perform the following actions:
 - obtain a Twitter screen_name from a list of unqueried accounts
-- using the Twitter API, obtain that account's most recent 500 tweets
+- using the Twitter API, obtain that account's most recent tweets
 - iterate through captured tweets in order to identify tweets containing 7 or more account mentions
 - if the criterion was met, check whether the tweet was original content or a retweet
 - record the url of the follow-back-style tweet, the screen_name of the account that published the original tweet, and a list of accounts mentioned in the tweet
@@ -33,7 +33,7 @@ Here is an example of a tweet matching the criterion:
 
 ![](images/example_followback_tweet.png)
 
-The script was allowed to run for XXX hours between 11:00 November 24th 2021 and . Note that the script was terminated before it had been able to query all accounts. As such, the data collected cannot be considered exaustive. Many more participants likely exist that were not discovered during this process.
+The script was allowed to run for XXX hours between 16:00 November 24th 2021 and XXX. Note that the script was terminated before it had been able to query all accounts. As such, the data collected cannot be considered exaustive. Many more participants likely exist that were not discovered during this process.
 
 # Results and discussion
 The following statistics were gathered.
