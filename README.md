@@ -1,5 +1,5 @@
 # inauthentic_twitter_nov2021
-A scrape of high-volume inauthentic Twitter accounts from Nov. 2021
+An analysis of follow-back networks on Twitter from Nov. 2021
 
 # Introduction
 Follow-back behaviour on Twitter is not a new phenomenon, nor is it always used for malicious purposes. However, follow-back mechanisms, when applied en-masse, via thousands of high-volume accounts can be an indicator of inauthentic behaviour and potentially automation. Such mechanisms can be used to cultivate accounts for the purpose of spreading disinformation. Although the existance of such high-volume follow-back mechanisms is well-known on Twitter, it is rarely the subject of investigation. The is because (i) Twitter's free API rate limits prohibit the ability to crawl networks of users and properly capture all accounts involved in this activity, and (ii) the sheer size of these networks mean that crawling this space can take a very long time.
