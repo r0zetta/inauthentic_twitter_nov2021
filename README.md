@@ -15,7 +15,7 @@ An analysis of this account was conducted by botvolution and can be found here: 
 
 This fake account, disguised as a football fan from London (but actually operated from the US), was responsible for the heavy promotion of follow-back spam at the time of initial inspection. The account posted many tweets containing long lists of usernames, followed by a meme image, or short piece of text. This mechanism, in addition to being used to propagate large follow-back networks, was designed to fish for likes, retweets, and replies. In addition to posting its own follow-back-style tweets, it retweeted similar content, and often replied to other follow-back-styled tweets asking for follows. Scrolling through the account's timeline, it was apparent that the duncanclements6 account repeatedly retweeted the same accounts that were also participating in similar username spam activities. A few of these were noted via manual inspection: Star7lt, USARGB, jAlmz5, duckusa, 8_27J, KeysLiisa, VuDeja4, and emma6USA. 
 
-The account had just been suspended at the time of writing, but it is unknown whether it was a temporary or permanent suspension.
+The account had just been suspended at the time of writing, and it is unknown whether it was a temporary or permanent suspension.
 
 At this juncture, it was hypothesised that there must be other accounts participating in this group, and that manual analysis would be too cumbersome to identify them all. As such, automation was created to explore this phenomenon.
 
