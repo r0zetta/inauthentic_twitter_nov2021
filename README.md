@@ -68,4 +68,4 @@ The majority of the accounts identified during this research are likely being us
 
 The UK/US-based cluster is used to amplify extremist and divisive content on Twitter. Many of the accounts identified in this research have likely been participating in this activity for years. 
 
-The data provided in this repository represents a starting point for analysis of these groups as a whole. The contributors to this research hope that Twitter's Safety team perform such an analysis and take appropriate actions to curb these mechanisms once and for all.
+The data provided in this repository represents a starting point for analysis of these groups as a whole. The contributors to this research hope that Twitter's Safety team perform such an analysis and take appropriate actions to curb these mechanisms.
