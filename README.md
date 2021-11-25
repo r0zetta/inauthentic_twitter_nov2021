@@ -64,7 +64,7 @@ Also observed were accounts that auto-delete tweets at a rapid rate. For instanc
 # Conclusion
 The follow-back mechanisms detailed in this report are not new, and have been described by multiple researchers, for many years. The methodology presented in this report for identifying these networks of accounts is very simple, and data gathering using the described mechanisms can be performed despite Twitter's rate limits.
 
-The majority of the accounts identified during this research are likely being used to cultivate social network personas for a variety of purposes that may include (i) inauthentic amplification of content, (ii) to be sold to others, (iii) to be used by disinformation-as-a-service operations, or (iv) as part of nation-state social media manipulation infrastructure.
+It is possible that some of the accounts identified during this research are being used to cultivate social network personas for purposes that may include (i) inauthentic amplification of content, (ii) to be sold to others, (iii) to be used by disinformation-as-a-service operations, or (iv) as part of nation-state social media manipulation infrastructure.
 
 The UK/US-based cluster is used to amplify extremist and divisive content on Twitter. Many of the accounts identified in this research have likely been participating in this activity for years. 
 
