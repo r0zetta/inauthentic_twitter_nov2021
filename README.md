@@ -44,6 +44,8 @@ A graph of retweet interactions between these accounts is illustrated below.
 
 ![](images/followback_2021_annotated.png)
 
+The gephi save for this visualization can be found in this repository in the file: **followback_2021.gephi**.
+
 As illustrated, the script ended up crawling several regional followback groups, even though it was only seeded with accounts in the US space. In fact, the UK/US-based followback cluster is rather small in relation to the entire graph. Tweets captured across all regions followed a similar modus operandi - long lists of accounts, and sometimes an image or short piece of text. Images often depicted animals, nature, holiday greetings, and localized (sometimes political) content. For instance, the tweets captured in the UK/US cluster often contained pictures of Donald Trump, or anti-Biden memes. Topical content was also observed, such as images depicting support for Kyle Rittenhouse.
 
 Some of the accounts in the dataset were observed sharing content in multiple languages. Some of the captured accounts were observed to only publish or share tweets in the followback format. Accounts in the UK/US cluster were by-and-large high-volume, often publishing more than 200 tweets per day. They also often had large (and roughly similar) numbers of following and followers. Many accounts participating in the UK/US cluster were observed to share COVID-related disinformation, anti-vax conspiracy theories, racist content, QAnon-related content, and extremist material. The nature of the content shared by non-English-language accounts was not investigated.
