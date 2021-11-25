@@ -21,7 +21,7 @@ At this juncture, it was hypothesised that there must be other accounts particip
 
 # Methodology
 A rudimentary script was created to search for additional accounts participating in this inauthentic activity. The script was designed to perform the following actions:
-- obtain a Twitter screen_name from a list of unqueried accounts
+- obtain a Twitter screen_name from a list of unqueried accounts (seeded from the accounts listed above)
 - using the Twitter API, obtain that account's most recent 1000 tweets
 - iterate through captured tweets in order to identify tweets containing 7 or more account mentions
 - record the url of the follow-back-style original tweet, the screen_name of the account that published or retweeted the original tweet, and a list of accounts mentioned in the tweet
